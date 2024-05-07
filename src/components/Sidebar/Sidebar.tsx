@@ -34,6 +34,7 @@ const Sidebar = () => {
                 <button className="flex justify-start items-center text-xl font-semibold"><GrAchievement className="mr-3" /> <span>Achievements</span></button>
             </div>
         </motion.div>
+        <small>By: devmsrajput@gmail.com</small>
         </>
   )
 }
